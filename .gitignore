@@ -1,0 +1,19 @@
+# Dépendances
+node_modules/
+
+# Fichiers de build (générés par Vite)
+dist/
+dist-ssr/
+
+# Fichiers d'environnement (secrets)
+.env
+.env.local
+
+# Fichiers de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Fichiers système
+.DS_Store
+Thumbs.db
