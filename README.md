@@ -1,3 +1,5 @@
+Amine Himiche 
+
 # 🏛️ Portfolio — Musée Virtuel Interactif
 
 > Un portfolio personnel immersif sous la forme d'un musée 3D navigable à la première personne, construit avec React et React Three Fiber.
